@@ -1,0 +1,32 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Python virtual environment and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# IDE and OS files
+.vscode/*
+!.vscode/settings.json
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated vector-search and GraphRAG artifacts
+embeddings.npy
+knowledge_graph.png
+
+# Temporary and local output files
+*.log
+*.tmp
+test_facts.txt
+random_20_facts.txt

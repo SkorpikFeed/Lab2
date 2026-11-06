@@ -1,0 +1,36 @@
+Google’s next Googlebook could make your Android tablets feel outdated
+Digital Trends
+Follow
+Shimul Sood
+Add to Preferred Sources
+Thu, November 5, 2026 at 11:13 AM GMT+2
+
+Googlebooks have only been around for a little over a month, but Google is already looking beyond traditional laptops. The company has confirmed that detachable Googlebooks are on the way, meaning we could soon see devices that work as both a tablet and a laptop without carrying two separate gadgets.
+
+The announcement came during the Android Dev Summit 2026, where Google outlined its plans to expand the Googlebook lineup beyond the clamshell and convertible designs currently available. While the company hasn't revealed an official launch date or shown any hardware, an earlier leak suggests Lenovo could be the first manufacturer to bring one to market.
+Where Googlebooks go next
+
+Google has confirmed plans to expand its Googlebook lineup with detachable devices that function as both a tablet and a laptop. View more
+
+    What could Lenovo's detachable look like?Related article
+    Which works better: tablet or Googlebook?Related article
+
+    Which fits you: Chromebook or Googlebook?Related article
+    Where can you buy the first Googlebooks?Related article
+
+Googlebooks are finally breaking away from the laptop design
+
+Google launched its first five Googlebooks with a fairly familiar approach. Four of them, from Asus, Dell, HP, and Lenovo, are conventional laptops. The Acer Googlebook 14 is the only exception, offering a 360-degree hinge that lets you fold the screen backward and use it as a tablet. However, there's a big difference between folding a laptop into tablet mode and actually removing its keyboard. That's where Google's next wave of devices comes in.
+Trying out the HP Googlebook at Snapdragon Summit Hands On Featured Image
+
+Trying out the HP Googlebook at Snapdragon Summit Varun Mirchandani / Digital Trends
+
+Interestingly, Lenovo might already have something in the works. An Android Headlines leak pointed to a Googlebook tablet with a detachable keyboard and a built-in kickstand, much like Microsoft's Surface devices. The leaked hardware also reportedly features Google's Glowbar near the camera, although its exact functionality remains unclear. We still don't know much, including the specifications, pricing, and whether Lenovo will actually be first to launch. But Google's latest confirmation makes it clear that detachable devices are officially part of its plans.
+Could Googlebook OS become the future of Android tablets?
+
+The bigger story here is what Google's expansion could mean for Android tablets. Googlebook OS is built on Android, but it's designed to offer a more desktop-like computing experience. Bringing it to detachable tablets could give users a device that's comfortable for watching videos and browsing the web, while still handling more demanding productivity tasks.
+Hp Googlebook logo featured hands on
+
+Varun Mirchandani / Digital Trends
+
+That said, Google still has some work to do. The current software allows fullscreen apps to run in portrait orientation, but important parts of the interface, including the home screen, app drawer, and Overview, remain restricted to landscape mode. That's hardly ideal for a device designed to be used without a keyboard. It also raises an interesting question about Google's long-term tablet strategy. If Googlebook OS eventually offers a better desktop experience, where does that leave premium tablets running regular Android? With detachables officially on the roadmap, the line between Android tablets and Googlebooks is about to get a lot thinner.

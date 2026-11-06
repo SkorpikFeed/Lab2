@@ -1,0 +1,14 @@
+The Googlebook is a laptop standard created by Google that runs an Android-based desktop operating system called "Googlebook OS". It was announced on May 12, 2026, as the successor to the Chromebook, and were first launched on October 4, 2026 with gradual global expansion.[2]
+History
+
+Google first confirmed it was developing a successor to the Chromebook and Pixelbook Go, a lineup of mid to low-range laptop computers that run ChromeOS popular in U.S. K–12 education, in July 2025, when executive Sameer Samat told TechRadar that it was "combining ChromeOS and Android into a single platform", confirming months-long rumors and fulfilling decade-long wishes.[3] He teased the new platform again in September, at Qualcomm's Snapdragon Summit event with Google hardware chief Rick Osterloh and Qualcomm CEO Cristiano Amon, saying that it would be launched in the following year.[4]
+
+In May 2026, at a livestreamed Google I/O pre-show entitled "The Android Show: I/O Edition", Google announced the Googlebook alongside Android 17, highlighting its deep integration with Gemini Intelligence—a slate of generative artificial intelligence (AI) features powered by Gemini—and revealing that the first devices in the product line would be available later that year.[5] The company declined to share the name of the operating system that powers Googlebooks but clarified that "Aluminium OS" was a codename during development and would not be the actual name.[6] Initial third-party original equipment manufacturer (OEM) partners included Acer, Asus, Dell, HP, and Lenovo; the Google Pixel team declined to comment on whether they would develop their own Googlebooks. Senior director Alexander Kuscher told Wired that Googlebooks would "sit at the more premium end of the laptop market", contrasting Chromebooks,[5] which would continue to be supported post-launch.[6]
+
+Google officially revealed the product on May 21, 2026. Initial media lift and preorders began on September 21, 2026.[7] It was then released in the United States on October 4, 2026, followed by Australia, Canada, France, Germany, Ireland and the United Kingdom the next day on October 5.[2]
+Features
+
+Googlebook is a computer platform with Googlebook OS, computer-class Arm64 or x64 SoC, UEFI boot, and NVMe storage.[8]
+Reception
+
+Upon Samat's confirmation in July 2025, PCMag reviewer Michael Muchmore expressed excitement for the ChromeOS–Android merger, calling it "the most logical path forward for Google".[9]

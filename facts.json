@@ -1,0 +1,634 @@
+[
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "MADE_BY",
+    "object": "Acer",
+    "object_type": "Company",
+    "doc": "1"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "MADE_BY",
+    "object": "ASUS",
+    "object_type": "Company",
+    "doc": "1"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "MADE_BY",
+    "object": "Dell",
+    "object_type": "Company",
+    "doc": "1"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "MADE_BY",
+    "object": "HP",
+    "object_type": "Company",
+    "doc": "1"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "MADE_BY",
+    "object": "Lenovo",
+    "object_type": "Company",
+    "doc": "1"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "POWERED_BY",
+    "object": "Intel",
+    "object_type": "Chip",
+    "doc": "1"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "POWERED_BY",
+    "object": "Qualcomm",
+    "object_type": "Chip",
+    "doc": "1"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "RUNS",
+    "object": "Googlebook OS",
+    "object_type": "Software",
+    "doc": "1"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "HAS_FEATURE",
+    "object": "Glowbar",
+    "object_type": "Feature",
+    "doc": "1"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "HAS_FEATURE",
+    "object": "Magic Pointer",
+    "object_type": "Feature",
+    "doc": "1"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "HAS_FEATURE",
+    "object": "Rambler",
+    "object_type": "Feature",
+    "doc": "1"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "HAS_FEATURE",
+    "object": "Create My Widget",
+    "object_type": "Feature",
+    "doc": "1"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "USES_HARDWARE",
+    "object": "Google Titan",
+    "object_type": "Hardware",
+    "doc": "1"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "MADE_BY",
+    "object": "Google",
+    "object_type": "Company",
+    "doc": "2"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "REPLACES",
+    "object": "Chromebook",
+    "object_type": "Product",
+    "doc": "2"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "REPLACES",
+    "object": "Pixelbook Go",
+    "object_type": "Product",
+    "doc": "2"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "HAS_FEATURE",
+    "object": "Gemini Intelligence",
+    "object_type": "Feature",
+    "doc": "2"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "USES_HARDWARE",
+    "object": "Arm64 SoC",
+    "object_type": "Hardware",
+    "doc": "2"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "USES_HARDWARE",
+    "object": "x64 SoC",
+    "object_type": "Hardware",
+    "doc": "2"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "USES_HARDWARE",
+    "object": "UEFI boot",
+    "object_type": "Hardware",
+    "doc": "2"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "USES_HARDWARE",
+    "object": "NVMe storage",
+    "object_type": "Hardware",
+    "doc": "2"
+  },
+  {
+    "subject": "Lenovo Googlebook 15",
+    "subject_type": "Product",
+    "relation": "MADE_BY",
+    "object": "Lenovo",
+    "object_type": "Company",
+    "doc": "3"
+  },
+  {
+    "subject": "Lenovo Googlebook 15",
+    "subject_type": "Product",
+    "relation": "POWERED_BY",
+    "object": "Intel Core Ultra 5",
+    "object_type": "Chip",
+    "doc": "3"
+  },
+  {
+    "subject": "Lenovo Googlebook 15",
+    "subject_type": "Product",
+    "relation": "RUNS",
+    "object": "Googlebook OS",
+    "object_type": "Software",
+    "doc": "3"
+  },
+  {
+    "subject": "Lenovo Googlebook 15",
+    "subject_type": "Product",
+    "relation": "HAS_FEATURE",
+    "object": "Gemini Intelligence",
+    "object_type": "Feature",
+    "doc": "3"
+  },
+  {
+    "subject": "Lenovo Googlebook 15",
+    "subject_type": "Product",
+    "relation": "HAS_FEATURE",
+    "object": "15-inch 2.8K OLED touchscreen display",
+    "object_type": "Feature",
+    "doc": "3"
+  },
+  {
+    "subject": "Lenovo Googlebook 15",
+    "subject_type": "Product",
+    "relation": "HAS_FEATURE",
+    "object": "haptic touchpad",
+    "object_type": "Feature",
+    "doc": "3"
+  },
+  {
+    "subject": "Lenovo Googlebook 15",
+    "subject_type": "Product",
+    "relation": "HAS_FEATURE",
+    "object": "quad-speaker system with Dolby Atmos",
+    "object_type": "Feature",
+    "doc": "3"
+  },
+  {
+    "subject": "Lenovo Googlebook 15",
+    "subject_type": "Product",
+    "relation": "HAS_FEATURE",
+    "object": "fingerprint reader",
+    "object_type": "Feature",
+    "doc": "3"
+  },
+  {
+    "subject": "Lenovo Googlebook 15",
+    "subject_type": "Product",
+    "relation": "HAS_FEATURE",
+    "object": "facial authentication",
+    "object_type": "Feature",
+    "doc": "3"
+  },
+  {
+    "subject": "Lenovo Googlebook 15",
+    "subject_type": "Product",
+    "relation": "HAS_FEATURE",
+    "object": "camera shutter",
+    "object_type": "Feature",
+    "doc": "3"
+  },
+  {
+    "subject": "Lenovo Googlebook 15",
+    "subject_type": "Product",
+    "relation": "USES_HARDWARE",
+    "object": "Lenovo AI Mouse",
+    "object_type": "Hardware",
+    "doc": "3"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "RUNS",
+    "object": "Android OS",
+    "object_type": "Software",
+    "doc": "4"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "HAS_FEATURE",
+    "object": "Gemini",
+    "object_type": "Feature",
+    "doc": "4"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "HAS_FEATURE",
+    "object": "AI-powered cursor",
+    "object_type": "Feature",
+    "doc": "4"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "HAS_FEATURE",
+    "object": "vibe-coded widgets",
+    "object_type": "Feature",
+    "doc": "4"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "HAS_FEATURE",
+    "object": "AI-enhanced dictation",
+    "object_type": "Feature",
+    "doc": "4"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "REPLACES",
+    "object": "Chromebooks",
+    "object_type": "Product",
+    "doc": "4"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "HAS_FEATURE",
+    "object": "Magic Cursor",
+    "object_type": "Feature",
+    "doc": "4"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "HAS_FEATURE",
+    "object": "Gemini Spark",
+    "object_type": "Feature",
+    "doc": "4"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "HAS_FEATURE",
+    "object": "Gemini Live",
+    "object_type": "Feature",
+    "doc": "4"
+  },
+  {
+    "subject": "Acer Googlebook 14",
+    "subject_type": "Product",
+    "relation": "MADE_BY",
+    "object": "Acer",
+    "object_type": "Company",
+    "doc": "5"
+  },
+  {
+    "subject": "Asus Googlebook 14",
+    "subject_type": "Product",
+    "relation": "MADE_BY",
+    "object": "Asus",
+    "object_type": "Company",
+    "doc": "5"
+  },
+  {
+    "subject": "Acer Googlebook 14",
+    "subject_type": "Product",
+    "relation": "POWERED_BY",
+    "object": "Intel Core Ultra Series 3",
+    "object_type": "Chip",
+    "doc": "5"
+  },
+  {
+    "subject": "Asus Googlebook 14",
+    "subject_type": "Product",
+    "relation": "POWERED_BY",
+    "object": "Intel Core Ultra Series 3",
+    "object_type": "Chip",
+    "doc": "5"
+  },
+  {
+    "subject": "Acer Googlebook 14",
+    "subject_type": "Product",
+    "relation": "RUNS",
+    "object": "Googlebook OS",
+    "object_type": "Software",
+    "doc": "5"
+  },
+  {
+    "subject": "Asus Googlebook 14",
+    "subject_type": "Product",
+    "relation": "RUNS",
+    "object": "Googlebook OS",
+    "object_type": "Software",
+    "doc": "5"
+  },
+  {
+    "subject": "Googlebook OS",
+    "subject_type": "Software",
+    "relation": "HAS_FEATURE",
+    "object": "Gemini",
+    "object_type": "Feature",
+    "doc": "5"
+  },
+  {
+    "subject": "Googlebook OS",
+    "subject_type": "Software",
+    "relation": "HAS_FEATURE",
+    "object": "Magic Pointer",
+    "object_type": "Feature",
+    "doc": "5"
+  },
+  {
+    "subject": "Googlebook OS",
+    "subject_type": "Software",
+    "relation": "HAS_FEATURE",
+    "object": "Rambler",
+    "object_type": "Feature",
+    "doc": "5"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "COMPETES_WITH",
+    "object": "MacBook Air",
+    "object_type": "Product",
+    "doc": "5"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "COMPETES_WITH",
+    "object": "Surface Laptop",
+    "object_type": "Product",
+    "doc": "5"
+  },
+  {
+    "subject": "Acer Googlebook 14",
+    "subject_type": "Product",
+    "relation": "USES_HARDWARE",
+    "object": "backlit keyboards",
+    "object_type": "Hardware",
+    "doc": "5"
+  },
+  {
+    "subject": "Acer Googlebook 14",
+    "subject_type": "Product",
+    "relation": "USES_HARDWARE",
+    "object": "haptic trackpads",
+    "object_type": "Hardware",
+    "doc": "5"
+  },
+  {
+    "subject": "Acer Googlebook 14",
+    "subject_type": "Product",
+    "relation": "USES_HARDWARE",
+    "object": "fingerprint readers",
+    "object_type": "Hardware",
+    "doc": "5"
+  },
+  {
+    "subject": "Asus Googlebook",
+    "subject_type": "Product",
+    "relation": "MADE_BY",
+    "object": "Asus",
+    "object_type": "Company",
+    "doc": "6"
+  },
+  {
+    "subject": "Dell Googlebook",
+    "subject_type": "Product",
+    "relation": "MADE_BY",
+    "object": "Dell",
+    "object_type": "Company",
+    "doc": "6"
+  },
+  {
+    "subject": "HP Googlebook",
+    "subject_type": "Product",
+    "relation": "MADE_BY",
+    "object": "HP",
+    "object_type": "Company",
+    "doc": "6"
+  },
+  {
+    "subject": "Lenovo Googlebook",
+    "subject_type": "Product",
+    "relation": "MADE_BY",
+    "object": "Lenovo",
+    "object_type": "Company",
+    "doc": "6"
+  },
+  {
+    "subject": "Acer Googlebook 14",
+    "subject_type": "Product",
+    "relation": "HAS_FEATURE",
+    "object": "360-degree hinge",
+    "object_type": "Feature",
+    "doc": "6"
+  },
+  {
+    "subject": "Googlebook OS",
+    "subject_type": "Software",
+    "relation": "RUNS",
+    "object": "Android",
+    "object_type": "Software",
+    "doc": "6"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "COMPETES_WITH",
+    "object": "Android tablet",
+    "object_type": "Product",
+    "doc": "6"
+  },
+  {
+    "subject": "Chromebook",
+    "subject_type": "Product",
+    "relation": "MADE_BY",
+    "object": "Google",
+    "object_type": "Company",
+    "doc": "7"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "POWERED_BY",
+    "object": "Intel Core Ultra",
+    "object_type": "Chip",
+    "doc": "7"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "POWERED_BY",
+    "object": "Snapdragon X Elite",
+    "object_type": "Chip",
+    "doc": "7"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "POWERED_BY",
+    "object": "MediaTek",
+    "object_type": "Chip",
+    "doc": "7"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "HAS_FEATURE",
+    "object": "G Key",
+    "object_type": "Feature",
+    "doc": "7"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "USES_HARDWARE",
+    "object": "Titan C",
+    "object_type": "Hardware",
+    "doc": "7"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "HAS_FEATURE",
+    "object": "Cast My Apps",
+    "object_type": "Feature",
+    "doc": "7"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "HAS_FEATURE",
+    "object": "Google Play Store",
+    "object_type": "Feature",
+    "doc": "7"
+  },
+  {
+    "subject": "Dell XPS Googlebook",
+    "subject_type": "Product",
+    "relation": "MADE_BY",
+    "object": "Dell",
+    "object_type": "Company",
+    "doc": "8"
+  },
+  {
+    "subject": "Lenovo Googlebook 15",
+    "subject_type": "Product",
+    "relation": "POWERED_BY",
+    "object": "Intel Core Ultra Pantherlake",
+    "object_type": "Chip",
+    "doc": "8"
+  },
+  {
+    "subject": "ASUS Googlebook",
+    "subject_type": "Product",
+    "relation": "POWERED_BY",
+    "object": "Intel Core Ultra Pantherlake",
+    "object_type": "Chip",
+    "doc": "8"
+  },
+  {
+    "subject": "Acer Googlebook 14",
+    "subject_type": "Product",
+    "relation": "POWERED_BY",
+    "object": "Intel Core Ultra Pantherlake",
+    "object_type": "Chip",
+    "doc": "8"
+  },
+  {
+    "subject": "Dell XPS Googlebook",
+    "subject_type": "Product",
+    "relation": "POWERED_BY",
+    "object": "Snapdragon X Elite",
+    "object_type": "Chip",
+    "doc": "8"
+  },
+  {
+    "subject": "HP Googlebook",
+    "subject_type": "Product",
+    "relation": "POWERED_BY",
+    "object": "Snapdragon X Elite",
+    "object_type": "Chip",
+    "doc": "8"
+  },
+  {
+    "subject": "Googlebook",
+    "subject_type": "Product",
+    "relation": "HAS_FEATURE",
+    "object": "lightbar",
+    "object_type": "Feature",
+    "doc": "8"
+  },
+  {
+    "subject": "Acer Googlebook 14",
+    "subject_type": "Product",
+    "relation": "HAS_FEATURE",
+    "object": "matte display",
+    "object_type": "Feature",
+    "doc": "8"
+  },
+  {
+    "subject": "Lenovo Googlebook 15",
+    "subject_type": "Product",
+    "relation": "HAS_FEATURE",
+    "object": "HDR display",
+    "object_type": "Feature",
+    "doc": "8"
+  }
+]

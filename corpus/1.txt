@@ -1,0 +1,70 @@
+Googlebook: The laptop your Android phone has been waiting for
+
+Sep 21, 2026
+
+5 min read
+
+Experience a smarter, premium laptop built for how people actually work and create. Pre-orders are now open.
+
+John Solomon
+
+Vice President, General Manager, Laptops, Tablets & Android Enterprise
+Share
+
+Video shows the new Googlebook.
+0:30
+Listen to article
+6:19 minutes
+Read AI-generated summary
+
+Googlebook — a new category of laptops designed for the way we work today — is now available for pre-order. Built on the Android technology stack and paired with desktop foundations from ChromeOS, Googlebook is designed for Gemini Intelligence and engineered to work with your Android phone right out of the box.
+
+Today, we often switch between starting tasks on our phones and finishing them on our laptops. To make that experience better for Android users, we teamed up with the best laptop makers in the industry to deliver top-tier hardware alongside Google software that connects effortlessly with your phone.
+Premium hardware from leading partners
+Sorry, your browser doesn't support embedded videos, but don't worry, you can and watch it with your favorite video player!
+
+Our initial selection of flagship devices are built by Acer, ASUS, Dell, HP, and Lenovo, offering you choices that fit your style.
+
+Starting at $899, every Googlebook features premium materials like aluminum, magnesium alloy, and carbon fiber. You’ll find responsive touchscreens with up to 2.8K OLED displays, haptic glass trackpads, and backlit keyboards. Under the hood, top-of-the-line processors from Intel and Qualcomm — paired with dedicated NPUs capable of over 45 TOPS — deliver snappy on-device performance and up to 14 hours of battery life.
+
+We’re also bringing back a familiar favorite: the Glowbar. Positioned cleanly on the exterior, it lights up at startup, sweeps to show your battery charge level, and reacts with playful animations when you talk to Gemini.
+The companion your phone has been waiting for
+Sorry, your browser doesn't support embedded videos, but don't worry, you can and watch it with your favorite video player!
+
+If you use an Android phone, your laptop shouldn't treat it like a stranger. Googlebook is built on a shared Android foundation, so your phone and laptop work seamlessly together
+
+It starts with setting up your device. When you sign in, your Android phone’s settings, saved passwords, Wi-Fi networks, and messages will move with you, backed by end-to-end encryption. Once you’re set up, Googlebook makes it easy to move between your phone and laptop and back to get things done.
+
+    Continue On: Pick up exactly where you left off on your phone, right on your laptop. If you start a project in BandLab on your phone while commuting, you can open your Googlebook and continue right from the taskbar.
+    Files: Rather than hunting through downloads or emailing attachments to yourself, use your Googlebook’s Files app to view, search, and open files and photos from your phone.
+    Cast My Apps: Need to order dinner from a delivery app or grab a one-time code from Messages? Cast My Apps lets you stream and interact with your phone’s apps in a desktop window without interrupting your workflow.
+
+Helpful intelligence built into the desktop
+
+Googlebook is designed for Gemini Intelligence to simplify your workflow.
+
+    Magic Pointer: Wiggle your cursor to bring Gemini directly to whatever’s on your screen. You can ask Gemini to organize a messy calendar or translate text without juggling multiple windows. Gemini only acts when you ask it to, and you can switch it off whenever you want.
+    Rambler: Located right next to the Quick Insert key, Rambler turns spoken thoughts into organized, ready-to-share writing. Talk through your notes, action items, or a stream of consciousness — even in multiple languages — and Rambler structures them with clean headers, checklists, and formatted takeaways.
+    Create My Widget: Customize your desktop by describing what you need in plain language. Create My Widget generates custom widgets that can share relevant updates throughout your day.
+
+The full web, plus your favorite apps and tools
+CapCut on the Googlebook
+
+Googlebook brings together the best of the web and the Play Store.
+
+You get the desktop-class Chrome browser with extensions alongside millions of Android apps, many of them optimized for large screens, mouse and keyboard input.
+
+Run native creative tools like Adobe Photoshop, Adobe Lightroom, and CapCut, or watch shows on popular streaming platforms like Netflix and HBO Max with offline viewing supported. When it’s time to unwind, explore thousands of Android games or play AAA PC titles you own with a complimentary year of GeForce NOW included with every purchase.
+
+For builders and makers, Googlebook includes Antigravity, our AI agent development platform, allowing you to build, test, and deploy apps right on your device. Developers also get a full terminal environment to run tools like Claude Code or Antigravity CLI and perform serious agentic coding.
+Modern, secure software architecture
+Sorry, your browser doesn't support embedded videos, but don't worry, you can and watch it with your favorite video player!
+
+Googlebook is built on the same security architecture as ChromeOS, anchored with our Google Titan hardware root of trust, defense in-depth architecture, and on-device malware detection. This means you get the security of industry-leading protection for all your personal data from day one.
+
+It also features a first for the laptop category: a Level 5 security-certified pKVM hypervisor. This hypervisor powers an isolated Linux environment with a full terminal access, so you can safely run any Linux developer tools, pull code repositories, or execute autonomous agents.
+Pricing, availability, and pre-order details
+
+Starting at $899, every Googlebook includes 12 months of Google AI Pro providing 5TB of cloud storage and higher usage limits in Gemini, plus 3 months of YouTube Premium, Adobe Photoshop, and more. Googlebook OS also comes with regular feature drops and updates for up to 10 years.
+
+Pre-orders are now open on the Google Store, Best Buy, and other select retailers. Devices arrive on shelves starting October 4 in the U.S., and October 5 in Canada, the U.K., Ireland, France, Germany, and Australia.
