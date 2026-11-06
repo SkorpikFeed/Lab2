@@ -21,12 +21,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Generated vector-search and GraphRAG artifacts
-embeddings.npy
-knowledge_graph.png
-
 # Temporary and local output files
 *.log
 *.tmp
-test_facts.txt
-random_20_facts.txt

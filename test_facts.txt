@@ -1,0 +1,20 @@
+2 | Googlebook REPLACES Chromebook
+1 | Googlebook MADE_BY HP
+4 | Googlebook HAS_FEATURE vibe-coded widgets
+3 | Lenovo Googlebook 15 USES_HARDWARE Lenovo AI Mouse
+3 | Lenovo Googlebook 15 HAS_FEATURE fingerprint reader
+2 | Googlebook USES_HARDWARE Arm64 SoC
+2 | Googlebook MADE_BY Google
+7 | Googlebook HAS_FEATURE Google Play Store
+1 | Googlebook HAS_FEATURE Create My Widget
+5 | Acer Googlebook 14 USES_HARDWARE fingerprint readers
+1 | Googlebook MADE_BY Lenovo
+8 | Acer Googlebook 14 HAS_FEATURE matte display
+8 | Dell XPS Googlebook MADE_BY Dell
+3 | Lenovo Googlebook 15 HAS_FEATURE quad-speaker system with Dolby Atmos
+3 | Lenovo Googlebook 15 HAS_FEATURE facial authentication
+7 | Googlebook USES_HARDWARE Titan C
+8 | Googlebook HAS_FEATURE lightbar
+1 | Googlebook USES_HARDWARE Google Titan
+5 | Acer Googlebook 14 RUNS Googlebook OS
+5 | Acer Googlebook 14 MADE_BY Acer
